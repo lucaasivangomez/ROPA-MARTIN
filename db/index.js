@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-mongoose.set("strictQuery",false);//tutoriales
+mongoose.set("strictQuery",false);//fac
 
 export async function run () {
     try {
